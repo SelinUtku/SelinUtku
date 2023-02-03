@@ -1,6 +1,6 @@
 ## Hi There 👋 I'm Selin Utku, Junior C / C++ Developer 🚀
 
-<img width="41%" align="right" alt="Github" src="https://raw.githubusercontent.com/lauragift21/lauragift21/master/code.gif"/>
+<img width="41%" align="right" alt="Github" src="./code.gif"/>
 
 - 👩🏻‍🎓&nbsp;BS Economics / Istanbul University
 - 📚&nbsp;Computer Engineering / Politecnice Di Torino
