@@ -1,7 +1,7 @@
 # SelinUtku
 ## Hi, I'm Selin Utku, Junior C / C++ Developer 🚀
 
-<img width="42%" align="right" alt="Github" src="https://raw.githubusercontent.com/lauragift21/lauragift21/master/code.gif"/>
+<img width="41%" align="right" alt="Github" src="https://raw.githubusercontent.com/lauragift21/lauragift21/master/code.gif"/>
 
 - 👩🏻‍🎓&nbsp;BS Economics / Istanbul University
 - 📚&nbsp;Computer Engineering / Politecnice Di Torino
@@ -26,4 +26,7 @@ as soon as possible to gain work experience and achieve my professional career g
   </a>
 </p>
 
-## Languages and Tools
+#### Languages and Tools <br />
+  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"></code>
+  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png"></code>
+  <code><img height="50" src="https://media1.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif?cid=790b76113fd65a9386daf6b2bd86487884627fdfdf1a597a&rid=giphy.gif&ct=s"></code>
