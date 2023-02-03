@@ -1,7 +1,7 @@
 # SelinUtku
 ## Hi, I'm Selin Utku, Junior C / C++ Developer 🚀
 
-<img width="55%" align="right" alt="Github" src="![image](https://user-images.githubusercontent.com/118751159/216596394-5c93f1dc-11f5-4a11-b3cf-a096051db5a0.png)" />
+<img width="200%" align="right" alt="Github" src="![image](https://user-images.githubusercontent.com/118751159/216596394-5c93f1dc-11f5-4a11-b3cf-a096051db5a0.png)" />
 
 - ⚙️&nbsp;BS Economics / Istanbul University
 - 📚&nbsp;Computer Engineering / Politecnice Di Torino
