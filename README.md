@@ -1,7 +1,7 @@
 # SelinUtku
 ## Hi, I'm Selin Utku, Junior C / C++ Developer 🚀
 
-<img width="55%" align="right" src="https://www.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_14723886.htm#query=female%20coder&position=0&from_view=keyword" />
+<img width="55%" align="right" alt="Github" src="../Desktop/coding.jpeg" />
 
 - ⚙️&nbsp;BS Economics / Istanbul University
 - 📚&nbsp;Computer Engineering / Politecnice Di Torino
