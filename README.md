@@ -1,4 +1,4 @@
-## Hi, I'm Selin Utku, Junior C / C++ Developer 🚀
+## Hi There 👋 I'm Selin Utku, Junior C / C++ Developer 🚀
 
 <img width="41%" align="right" alt="Github" src="https://raw.githubusercontent.com/lauragift21/lauragift21/master/code.gif"/>
 
@@ -17,10 +17,11 @@ I discovered that it would be better for me to focus on practical education inst
 
 <p align="center">
   <a href="https://leetcode.com/selins/" target="_blank">
-    <img width="17%" alt="Check my Leetcode" src="https://user-images.githubusercontent.com/118751159/216605771-e367d820-53bf-44dd-960d-474430cadcca.png"/> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="18%" alt="Check my Leetcode" src="https://user-images.githubusercontent.com/118751159/216605771-e367d820-53bf-44dd-960d-474430cadcca.png"/>
   </a>
+ &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/selinutku/" target="_blank">
-      <img width="17%" alt="Check my Linkedin" src="https://user-images.githubusercontent.com/118751159/216603615-c221cd5b-b707-4c5c-9cff-1dc2430a60d2.png"/>
+      <img width="18%" alt="Check my Linkedin" src="https://user-images.githubusercontent.com/118751159/216603615-c221cd5b-b707-4c5c-9cff-1dc2430a60d2.png"/>
  
 </p>
 
