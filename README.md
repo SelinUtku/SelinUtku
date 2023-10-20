@@ -5,7 +5,7 @@
 - 👩🏻‍🎓&nbsp;BS Economics / Istanbul University
 - 📚&nbsp;Computer Engineering / Politecnico Di Torino
 - 👩🏻‍💻&nbsp;Software Developer
-- 🐣&nbsp;<a target="_blank" href="https://www.42heilbronn.de/en/">42-Heilbronn</a> - intra: <b>sutku</b>
+- 🐣&nbsp;<a target="_blank" href="https://www.42heilbronn.de/en/">42-Heilbronn</a>
 - 🇹🇷🇺🇸 Contact me with these languages
 - 🇩🇪 Currently learning...
 
