@@ -13,7 +13,7 @@
 
 I have graduated with a Bachelors degree in Economics but I realized how significant technology is in today's world . It inspired me to develop interest in coding and hence I decided to study Computer Engineering. So I can effectively combine my knowledge of  economics and computer science to be more skilled and productive.
 
-I discovered that it would be better for me to focus on practical education instead of gaining only theoretical knowledge. And therefore I am currently pursuing my education in 42 Heilbronn which follows a 100% practical, project base and peer-to-peer system. The curriculum at 42 provides deep insights into programming concepts like C, C++ and the UNIX operating system.
+I discovered that it would be better for me to focus on practical education instead of gaining only theoretical knowledge. And therefore I am currently pursuing my education in 42 Heilbronn which follows a 100% practical, project base and peer-to-peer system. The curriculum at 42 provides deep insights into programming concepts like C and C++.
 
 <p align="center">
   <a href="https://leetcode.com/selins/" target="_blank">
